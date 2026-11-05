@@ -105,7 +105,7 @@ const KACHERS = [
   },
   {
     id: "baizhu", name: "Бай Чжу",
-    color: "#a6e0a8", color2: "#e8f5cf", textColor: "#2c5035", photo: "",
+    color: "#a6e0a8", color2: "#e8f5cf", textColor: "#2c5035", photo: "images/3a0c15d6a0a424eb8e80ddb41cce84bf.jpg",
     orders: [
       { client: "Пример: @user9", item: "Сбор материалов, неделя", progress: 4 }
     ]
