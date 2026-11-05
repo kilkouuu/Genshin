@@ -99,7 +99,7 @@ const KACHERS = [
   },
   {
     id: "xilonen", name: "Шилонен",
-    color: "#f9c46e", color2: "#f59fb4", textColor: "#5a3516", photo: "",
+    color: "#f9c46e", color2: "#f59fb4", textColor: "#5a3516", photo: "images/8f739303c5edd0a091b9784862e53f7f.jpg",
     orders: []
   },
   {
