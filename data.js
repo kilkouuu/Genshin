@@ -79,7 +79,7 @@ const KACHERS = [
   },
   {
     id: "zhongli", name: "Чжун Ли",
-    color: "#e6b95c", color2: "#d9a78a", textColor: "#5a3a10", photo: "",
+    color: "#e6b95c", color2: "#d9a78a", textColor: "#5a3a10", photo: "images/521d9b2d1d2fdaaab4f2993f50e63dc7.jpg",
     orders: [
       { client: "Пример: @user6", item: "Бездна, 36 звёзд", progress: 2 },
       { client: "Пример: @user7", item: "Фарм материалов возвышения", progress: 0 }
