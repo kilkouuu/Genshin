@@ -61,7 +61,7 @@ const KACHERS = [
   },
   {
     id: "yaemiko", name: "Яэ Мико",
-    color: "#f4b6dc", color2: "#d3b4f2", textColor: "#4d2a55", photo: "images/d985e21c2b1346a3a1c819ec8b383e01.jpg", 
+    color: "#f4b6dc", color2: "#d3b4f2", textColor: "#4d2a55", photo: "images/9c557e0790ed310f06637452d564cdc9.jpg", 
     orders: [
       { client: "Пример: @user4", item: "Босс недели, 3 прохождения", progress: 2 }
     ]
