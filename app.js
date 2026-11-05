@@ -46,7 +46,7 @@ function route() {
   if (!k) return;
   setK(k);
   $("#profile").className = "profile" + (k.photo ? " hasphoto" : "");
-  $("#profile").innerHTML = `${photo(k)}<div class="glass"><h1>${esc(k.name)}</h1><p>${esc(busy(k))}</p></div>`;
+    $("#profile").innerHTML = `${photo(k)}<div class="glass"><h1>${esc(k.name)}</h1><p>${esc(busy(k))}</p><small class="note">${esc(SITE.starsNote)}</small></div>`;
   $("#orders").innerHTML = k.orders.length
     ? k.orders.map((o, i) => `
       <article class="order">
