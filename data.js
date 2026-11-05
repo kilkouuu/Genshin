@@ -49,8 +49,7 @@ const KACHERS = [
     color: "#ffc2d6", color2: "#b8e6a6", textColor: "#4a2a3a", photo: "images/109cf328fa47c025ac16682636604ecc.jpg",
     orders: [
       { client: " @fukuroosan", item: "Фарм круток, 20 штук", progress: 1 },
-      { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 },
-      { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 }
+      { client: " @porcelainwww ", item: "Фарм круток, 70 штук", progress: 0 }
     ]
   },
   {
