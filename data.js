@@ -88,7 +88,7 @@ const KACHERS = [
   },
   {
     id: "keqing", name: "Ке Цин",
-    color: "#cdb5f0", color2: "#f0e2fb", textColor: "#47306b", photo: "images/71039f606e7788e522cb35a0224229fe.jpg",
+    color: "#cdb5f0", color2: "#f0e2fb", textColor: "#47306b", photo: "images/Без названия14_20261105134235.png",
     orders: []
   },
   {
