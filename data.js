@@ -73,7 +73,7 @@ const KACHERS = [
   },
   {
     id: "kaveh", name: "Кавех",
-    color: "#f7cf72", color2: "#9fd8c0", textColor: "#5a4010", photo: "",
+    color: "#f7cf72", color2: "#9fd8c0", textColor: "#5a4010", photo: "images/fb4a1ba3282583a3803ea02943bd15f8.jpg",
     orders: [
       { client: "Пример: @user5", item: "Исследование региона 100 процентов", progress: 5 }
     ]
