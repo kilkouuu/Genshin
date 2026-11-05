@@ -28,7 +28,7 @@ function init() {
 
   $("#track").innerHTML = KACHERS.map(k => `
     <a class="kcard" href="#${k.id}" style="--c1:${k.color};--c2:${k.color2};--ct:${k.textColor}">
-      ${photo(k)}<div class="shine"></div>
+      ${photo(k)}
       <div class="glass"><b>${esc(k.name)}</b><span>${esc(busy(k))}</span></div>
     </a>`).join("");
 
