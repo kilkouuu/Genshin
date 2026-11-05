@@ -66,7 +66,7 @@ const KACHERS = [
     orders: [
       { client: "@lattuke", item: "Фарм круток, 30 штук", progress: 1 },
       { client: "@crims0n_order", item: "Фарм круток, 45 штук", progress: 0 },
-      { client: "@Madam_fl", item: "Фарм круток, 25 штук", progress: 0 }
+      { client: "@Madam_fl", item: "Фарм круток, 25 штук", progress: 1 }
     ]
   },
   {
