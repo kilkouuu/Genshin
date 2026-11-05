@@ -50,6 +50,7 @@ const KACHERS = [
     orders: [
       { client: " @fukuroosan", item: "Фарм круток, 20 штук", progress: 1 },
       { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 }
+      { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 }
     ]
   },
   {
@@ -69,7 +70,10 @@ const KACHERS = [
   {
     id: "alhaitham", name: "Аль-Хайтам",
     color: "#a9dc9c", color2: "#efe6a3", textColor: "#2f4a2c", photo: "images/79e73c74b75ff3a5c6291d6441c2f2e9.jpg",
-    orders: []
+    orders: [
+       { client: " @ павпрсвге", item: "Босс недели, 3 прохождения", progress: 2 }
+       
+    ]
   },
   {
     id: "kaveh", name: "Кавех",
