@@ -64,7 +64,9 @@ const KACHERS = [
     id: "yaemiko", name: "Яэ Мико",
     color: "#f4b6dc", color2: "#d3b4f2", textColor: "#4d2a55", photo: "images/9c557e0790ed310f06637452d564cdc9.jpg", 
     orders: [
-      { client: "Пример: @user4", item: "Босс недели, 3 прохождения", progress: 2 }
+      { client: "@lattuke", item: "Фарм круток, 30 штук", progress: 1 }
+      { client: "@crims0n_order", item: "Фарм круток, 45 штук", progress: 0 }
+      { client: "@Madam_fl", item: "Фарм круток, 25 штук", progress: 0 }
     ]
   },
   {
