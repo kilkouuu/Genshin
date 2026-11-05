@@ -68,7 +68,7 @@ const KACHERS = [
   },
   {
     id: "alhaitham", name: "Аль-Хайтам",
-    color: "#a9dc9c", color2: "#efe6a3", textColor: "#2f4a2c", photo: "images/e313c61bf14f49316b988e6c5060c3a7.jpg",
+    color: "#a9dc9c", color2: "#efe6a3", textColor: "#2f4a2c", photo: "images/79e73c74b75ff3a5c6291d6441c2f2e9.jpg",
     orders: []
   },
   {
