@@ -48,7 +48,7 @@ const KACHERS = [
     id: "spring", name: "Весна",
     color: "#ffc2d6", color2: "#b8e6a6", textColor: "#4a2a3a", photo: "images/109cf328fa47c025ac16682636604ecc.jpg",
     orders: [
-      { client: "Пример: @user1", item: "Фарм артефактов, 20 смол", progress: 3 },
+      { client: "Заказ.1: @fukuroosan", item: "Фарм круток, 20 штук", progress: 3 },
       { client: "Пример: @user2", item: "Прокачка персонажа до 80", progress: 1 }
     ]
   },
