@@ -49,7 +49,7 @@ const KACHERS = [
     color: "#ffc2d6", color2: "#b8e6a6", textColor: "#4a2a3a", photo: "images/109cf328fa47c025ac16682636604ecc.jpg",
     orders: [
       { client: " @fukuroosan", item: "Фарм круток, 20 штук", progress: 1 },
-      { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 }
+      { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 },
       { client: " ? ", item: "Фарм круток, 70 штук", progress: 1 }
     ]
   },
@@ -64,8 +64,8 @@ const KACHERS = [
     id: "yaemiko", name: "Яэ Мико",
     color: "#f4b6dc", color2: "#d3b4f2", textColor: "#4d2a55", photo: "images/9c557e0790ed310f06637452d564cdc9.jpg", 
     orders: [
-      { client: "@lattuke", item: "Фарм круток, 30 штук", progress: 1 }
-      { client: "@crims0n_order", item: "Фарм круток, 45 штук", progress: 0 }
+      { client: "@lattuke", item: "Фарм круток, 30 штук", progress: 1 },
+      { client: "@crims0n_order", item: "Фарм круток, 45 штук", progress: 0 },
       { client: "@Madam_fl", item: "Фарм круток, 25 штук", progress: 0 }
     ]
   },
