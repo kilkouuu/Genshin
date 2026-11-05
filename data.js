@@ -93,7 +93,7 @@ const KACHERS = [
   },
   {
     id: "chasca", name: "Часка",
-    color: "#8fdcc4", color2: "#f7b872", textColor: "#24493d", photo: "",
+    color: "#8fdcc4", color2: "#f7b872", textColor: "#24493d", photo: "images/d99dad6d9419aed7c612c09a9670f45e.jpg",
     orders: [
       { client: "Пример: @user8", item: "Квесты Натлана", progress: 3 }
     ]
